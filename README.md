@@ -12,7 +12,7 @@ A **prototype visual novel** built in **Unity** using the **Fungus plugin**. Des
 ### 📂 Installation & Setup  
 1️. Clone the repository and open it in Unity.
 ```bash
-git clone https://github.com/Oleg-Dergunov/VisualNovelPrototype
+git clone https://github.com/Oleg-Dergunov/Visual-Novel-Prototype
 ```
 2️. Ensure **Fungus** is installed via the Unity Asset Store.  
 3️. Run the scene and explore the prototype!  
