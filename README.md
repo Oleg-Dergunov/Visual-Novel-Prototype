@@ -1,4 +1,4 @@
-# 🎮 Unity Visual Novel Prototype  
+# Unity Visual Novel Prototype  
 
 A **prototype visual novel** built in **Unity** using the **Fungus plugin**. Designed primarily to demonstrate **layout and UI skills**, rather than storytelling depth.  
 
@@ -10,16 +10,16 @@ A **prototype visual novel** built in **Unity** using the **Fungus plugin**. Des
 - Focus on **technical execution**, not narrative.  
 
 ### 📂 Installation & Setup  
-1️⃣ Clone the repository and open it in Unity.
+1️. Clone the repository and open it in Unity.
 ```bash
 git clone https://github.com/Oleg-Dergunov/VisualNovelPrototype
 ```
-2️⃣ Ensure **Fungus** is installed via the Unity Asset Store.  
-3️⃣ Run the scene and explore the prototype!  
+2️. Ensure **Fungus** is installed via the Unity Asset Store.  
+3️. Run the scene and explore the prototype!  
 
 ### 🔗 Play Online or Download  
 Prefer to play without setting up Unity? You can access the **WebGL build** directly in your browser or download the **Windows version** from **itch.io**:  
-👉 [Play & Download on Itch.io](https://elenaroarmero.itch.io/vn-prototype)  
+[Play & Download on Itch.io](https://elenaroarmero.itch.io/vn-prototype)  
 
 ### 📌 Notes  
 This project is **not intended for full gameplay**—it's a technical showcase of **Unity UI layout and structure**.  
